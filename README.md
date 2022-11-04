@@ -1,4 +1,5 @@
-# Template repository for PH3010 Advanced Python
+####
+ Template repository for PH3010 Advanced Python
 
 This is a template repository demonstrating how to package a python project. The directory is structured as follows:
 ```
