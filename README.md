@@ -35,4 +35,9 @@ Let's look at each element individually
 * `.github/workflows/python_test.yml` contains a [YAML](https://yaml.org/) file which determined how github Action are run
 * `src/` contains the python package itself
 * `tests/` contains the tests of the python package
-* test
+<<<<<<< HEAD
+* Testing that git push/pull works
+=======
+* this is an edit
+* 
+>>>>>>> 65e36390788c5562015630b521dd7dba74a10d33
